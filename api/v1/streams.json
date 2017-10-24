@@ -1,0 +1,10 @@
+[
+	{
+	"id":1,
+	"name":"Radio WeWeWe",
+	"url":"http:\/\/live.radio-wewewe.de:8000\/r3we_128",
+	"format":"oga",
+	"bitrate":128,
+	"listeners":0
+	}
+]
